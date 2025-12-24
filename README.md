@@ -28,8 +28,9 @@ A customizable **Wheel-style Date and Time Picker** for Android, supporting XML 
 # **Preview**
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9504273a-4309-438e-9ec1-bd8a2ec5bced"
+  <img src="https://github.com/user-attachments/assets/f6c0502-7437-4c9e-a7e7-26a85ac2b2fb"
        alt="Demo GIF"
+
        width="200">
 
 </p>
