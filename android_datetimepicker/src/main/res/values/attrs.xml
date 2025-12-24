@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DateTimePickerView">
+        <attr name="dtTextColor" format="color|reference" />
+        <attr name="dtTextSize" format="dimension" />
+        <attr name="dtFontFamily" format="string|reference" />
+        <attr name="dtShowDate" format="boolean" />
+        <attr name="dtShowTime" format="boolean" />
+        <attr name="dtPickerColor" format="color|reference" />
+        <attr name="dtWheelTextColor" format="color|reference" />
+        <attr name="dtDialogButtonTextColor" format="color|reference" />
+
+    </declare-styleable>
+</resources>

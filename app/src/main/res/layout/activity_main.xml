@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.ext.android_datetimepicker.DateTimePickerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:dtTextSize="20dp"
+
+
+
+
+        />
+
+
+    <!-- Wheel Date Picker -->
+    <com.ext.android_datetimepicker.WheelDateTimePickerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:dtWheelTextColor="@android:color/holo_red_light"
+        app:dtDialogButtonTextColor="@android:color/black"
+        app:dtTextSize="20dp"
+
+       />
+
+    <!-- Wheel Date Picker -->
+    <com.ext.android_datetimepicker.WheelTimePickerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:dtTextSize="20dp"
+        app:dtWheelTextColor="@android:color/holo_red_light"
+        app:dtDialogButtonTextColor="@android:color/black"
+     />
+
+</LinearLayout>

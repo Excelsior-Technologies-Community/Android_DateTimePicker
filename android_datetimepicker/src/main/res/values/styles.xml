@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom DatePicker Theme -->
+    <style name="CustomDatePickerTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/picker_color</item>
+        <item name="android:colorAccent">@color/picker_color</item>
+    </style>
+
+    <!-- Custom TimePicker Theme -->
+    <style name="CustomTimePickerTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/picker_color</item>
+        <item name="android:colorAccent">@color/picker_color</item>
+    </style>
+</resources>
