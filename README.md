@@ -81,7 +81,6 @@ dependencies {
     app:dtTextColor="@android:color/white"
     app:dtTextSize="16sp"
     app:dtFontFamily="sans-serif"
-    app:dtWheelTextColor="@android:color/holo_red_light"
     app:dtDialogButtonColor="@android:color/holo_blue_dark"/>
 
 
@@ -96,7 +95,6 @@ dependencies {
     app:dtTextColor="@android:color/white"
     app:dtTextSize="16sp"
     app:dtFontFamily="sans-serif"
-    app:dtWheelTextColor="@android:color/holo_green_light"
     app:dtDialogButtonColor="@android:color/holo_blue_dark"/>
 
 ```
