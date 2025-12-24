@@ -48,7 +48,8 @@ maven { url = uri("https://jitpack.io") }
 
 ```gradle
 dependencies {
-	        implementation 'com.github.Excelsior-Technologies-Community:TabLayout:1.0.0'
+	       	        implementation 'com.github.Excelsior-Technologies-Community:Android_DateTimePicker:1.0.0'
+
 
 }
 ```
