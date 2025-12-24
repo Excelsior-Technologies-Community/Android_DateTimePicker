@@ -64,7 +64,6 @@ dependencies {
         <attr name="dtShowDate" format="boolean" />
         <attr name="dtShowTime" format="boolean" />
         <attr name="dtPickerColor" format="color|reference" />
-        <attr name="dtWheelTextColor" format="color|reference" />
         <attr name="dtDialogButtonTextColor" format="color|reference" />
     </declare-styleable>
 </resources>
